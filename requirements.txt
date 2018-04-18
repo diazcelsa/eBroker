@@ -1,0 +1,12 @@
+requests==2.9.1
+pandas>=0.18.1
+scikit-learn==0.18.1
+scipy>=0.17.0
+numpy>=1.10.1
+seaborn
+ipython
+jupyter
+statsmodels==0.8.0
+yahoo-finance
+tensorflow
+cifar10_input
