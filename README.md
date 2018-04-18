@@ -7,8 +7,7 @@ However,
 * Which method for time series forecasting performs better or achieves a lower mean squared error in critical events?
 * Which method performs better with a couple of days in advance prediction?
 * Which is the optimal window size to optimize the forecast?
-* Can we predict with a high accuracy () using any of those methods an increase or decrease in the prices higher than the 2% with 2 days in advance?
-* Where the economical crisis predictable or planned?
-* Does a economical crisis create the perfect environment for bear borkers?
+* Can we develop a method to label events before a crisis and during a crisis?
+* Can we predict a crisis with several days in advance by understanding the patterns on stock market just before it happens?
 
-In the content of this repository, this topics will be discussed and benchmarked with the historical data of S&P 500 Index.
+In the content of this repository, this topics will be addressed with the historical data of S&P 500 Index since 1950.
