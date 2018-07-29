@@ -3,3 +3,6 @@
 ./data/cnn_models/*
 .venv
 .DS_Store
+*.pyc
+data/*
+__pycache__
