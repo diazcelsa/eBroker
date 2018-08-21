@@ -9,4 +9,8 @@ jupyter
 statsmodels==0.8.0
 yahoo-finance
 tensorflow
-cifar10_input
+plotly
+dash==0.21.1
+dash-core-components==0.13.0rc4
+dash-html-components==0.10.1
+dash-renderer==0.12.1
